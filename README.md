@@ -1,2 +1,1 @@
-# Crypto-currency-price-tracker
-A Python-based application that fetches real-time cryptocurrency prices (Bitcoin, Ethereum, Dogecoin, etc.) using the CoinGecko API. Built with Tkinter for a simple UI to monitor live market updates.
+A real-time cryptocurrency price tracker built using Python that monitors popular cryptocurrencies such as Bitcoin, Ethereum, Dogecoin, Cardano, and Solana. It fetches live market data using the CoinGecko API and displays price updates through an interactive Tkinter interface with Matplotlib visualizations and automatic refresh functionality.
